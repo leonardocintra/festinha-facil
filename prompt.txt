@@ -1,0 +1,181 @@
+Preciso agora que crie um novo projeto na mesma pasta. Precisa ser no idioma pt-br
+
+Prompt para Criar a Landing Page
+Crie uma landing page moderna e profissional para uma plataforma de automação voltada para donos de salões de festa infantil com Next.js e Tailwind CSS. A página deve transmitir profissionalismo, eficiência e tecnologia, mostrando como a automação resolve os principais problemas do dia a dia de quem gerencia salões de festa.
+Público-alvo:
+Donos e gestores de salões de festa infantil que enfrentam dificuldades na gestão operacional, atendimento a clientes e organização do negócio.
+Estrutura da Página:
+1. Hero Section
+
+Frase de Conversão: "Automatize Seu Salão de Festas e Tenha Mais Tempo para Crescer Seu Negócio"
+Subtítulo: "Sistema completo que gerencia reservas, contratos, equipe e atendimento ao cliente automaticamente. Menos trabalho manual, mais lucro!"
+CTA principal: "Começar Teste Grátis por 14 Dias" (botão grande e chamativo)
+CTA secundário: "Ver Demonstração"
+Imagem/ilustração de dashboard moderno ou proprietário usando tablet/celular gerenciando o salão
+Badges de confiança: "✓ Sem Cartão de Crédito" "✓ Cancele Quando Quiser" "✓ Suporte 24/7"
+Social proof: "Mais de 150+ salões já automatizaram sua gestão"
+
+2. Como Funciona (3-4 passos simples)
+Título: "Automatize Seu Salão em Minutos"
+
+Passo 1: Configure seu salão (pacotes, preços, disponibilidade)
+Passo 2: Compartilhe seu link de reservas
+Passo 3: Seus clientes reservam sozinhos, contratos assinam automaticamente
+Passo 4: Foque em crescer enquanto o sistema trabalha por você
+Ícones ilustrativos e modernos para cada passo
+
+3. Problemas que a Automação Resolve (Seção de Dores)
+Título: "Chega de Perder Tempo com Tarefas Repetitivas!"
+Apresente as soluções em cards visuais com ícones:
+
+⚡ Respostas Automáticas 24/7
+
+Sistema responde clientes instantaneamente, mesmo de madrugada
+Chatbot inteligente tira dúvidas comuns
+
+
+📅 Calendário Inteligente de Reservas
+
+Clientes consultam datas disponíveis em tempo real
+Bloqueios automáticos evitam reservas duplicadas
+Sincronização com Google Calendar
+
+
+🔄 Gestão de Fidelidade Automatizada
+
+Sistema identifica clientes recorrentes automaticamente
+Descontos e programas de fidelidade aplicados sozinhos
+Notificações de aniversário para remarketing
+
+
+📱 Marketing Automático
+
+Agendamento de posts nas redes sociais
+Galeria de fotos organizada automaticamente
+Envio automático de portfólio para clientes
+
+
+📋 Contratos Digitais Inteligentes
+
+Geração automática baseada no tipo de locação
+Assinatura eletrônica válida juridicamente
+Armazenamento seguro na nuvem
+
+
+🎯 Pacotes Flexíveis Personalizáveis
+
+Configure tipos de locação (com/sem buffet, decoração, etc)
+Cliente escolhe e sistema calcula preço automaticamente
+Upsell automático de adicionais
+
+
+💰 Controle Financeiro Completo
+
+Pagamentos online integrados
+Relatórios de faturamento automáticos
+Gestão de entrada, sinal e parcelamento
+
+
+👥 Gestão de Equipe Simplificada
+
+Escala automática de funcionários por data
+Notificações para equipe sobre eventos do dia
+Controle de presença e horas trabalhadas
+
+
+
+4. Seções Adicionais
+Demonstração Visual (Screenshots/Vídeo):
+
+Dashboard principal
+Tela de calendário de reservas
+Exemplo de contrato digital
+Interface mobile responsiva
+
+Benefícios em Números:
+
+"Reduza 80% do tempo com atendimento manual"
+"Aumente 45% suas reservas com disponibilidade 24/7"
+"Economize 15h por semana em tarefas administrativas"
+
+Planos e Preços:
+
+Cards com diferentes tiers (Starter, Professional, Enterprise)
+Destaque no plano recomendado
+Lista clara de funcionalidades por plano
+
+Depoimentos:
+
+Avaliações de donos de salões reais
+Fotos e nome do salão (credibilidade)
+Resultados específicos alcançados
+
+FAQ:
+
+Perguntas sobre implementação, integração, suporte
+Segurança dos dados
+
+CTA Final:
+
+"Pare de Perder Reservas e Dinheiro. Automatize Hoje!"
+Formulário simples ou botão para teste grátis
+
+Paleta de Cores (profissional com toques lúdicos):
+Primárias:
+
+bg-blue-600 (#2563EB) - Azul confiança (COR PRINCIPAL)
+bg-purple-600 (#9333EA) - Roxo inovação
+bg-indigo-600 (#4F46E5) - Índigo tecnologia
+
+Secundárias:
+
+bg-pink-500 (#EC4899) - Rosa (referência ao infantil)
+bg-yellow-400 (#FACC15) - Amarelo (destaque CTAs)
+bg-green-500 (#22C55E) - Verde (sucesso/conversão)
+
+Neutras:
+
+bg-white - Branco limpo
+bg-gray-50 - Cinza clarinho backgrounds
+bg-gray-900 - Cinza escuro textos importantes
+text-gray-700 - Textos principais
+text-gray-600 - Textos secundários
+
+Estilo Visual:
+
+Design SaaS moderno e limpo
+Bordas arredondadas moderadas (rounded-lg, rounded-xl)
+Gradientes sutis para CTAs (bg-gradient-to-r from-blue-600 to-purple-600)
+Sombras profissionais (shadow-lg, shadow-xl)
+Ícones minimalistas mas expressivos (lucide-react)
+Espaçamento generoso e organizado
+Fontes: títulos bold e impactantes, corpo de texto profissional
+Elementos decorativos sutis: linhas, grids, formas geométricas
+Screenshots com mockups de dispositivos (laptop/mobile)
+Animações sutis em scroll e hover (fade-in, slide-up)
+
+Tom de Comunicação:
+
+Direto ao ponto, focado em resultados
+Destaque em economia de tempo e aumento de lucro
+Linguagem profissional mas acessível
+Dados e números concretos
+Foco em "você pode" e "seu negócio vai"
+
+Responsividade:
+
+Mobile-first (donos de salão acessam muito pelo celular)
+Hero adaptável com CTA empilhados em mobile
+Grid de cards de dores: 1 coluna mobile, 2-3 desktop
+Screenshots responsivas
+Menu hamburger profissional em mobile
+
+Elementos de Conversão:
+
+Múltiplos CTAs ao longo da página
+Prova social (logos de clientes, números, depoimentos)
+Senso de urgência sutil ("Vagas limitadas para teste grátis")
+Badge de "Teste grátis, sem cartão"
+Chat/WhatsApp fixo para suporte
+
+Crie o código completo e funcional, pronto para implementação, com componentes reutilizáveis e código limpo!
