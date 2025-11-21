@@ -1,5 +1,9 @@
 {
-  "name": "loc-hall",
+  "name": "festinha-facil",
+  "author": {
+    "name": "Leonardo Nascimento Cintra",
+    "url": "https://leonardocintra.com.br"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
